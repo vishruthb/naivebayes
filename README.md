@@ -38,12 +38,12 @@ ________________________________________________________________________________
 *Defining Dataset*
 
 In this example, you can use the dummy dataset with three columns: weather, temperature, and play. The first two are features(weather, temperature) and the other is the label.
-
+```python
   # Assigning features and label variables
     weather=['Sunny','Sunny','Overcast','Rainy','Rainy','Rainy','Overcast','Sunny','Sunny',
     'Rainy','Sunny','Overcast','Overcast','Rainy']
     temp=['Hot','Hot','Hot','Mild','Cool','Cool','Cool','Mild','Cool','Mild','Mild','Mild','Hot','Mild']
 
     play=['No','No','Yes','Yes','Yes','No','Yes','No','Yes','Yes','Yes','Yes','Yes','No']
-
+```
 
