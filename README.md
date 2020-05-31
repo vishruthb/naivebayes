@@ -1,4 +1,4 @@
-# naivebayes
+# Naive Bayes Classifier
 Naive Bayes Model and Data Classification using Sci-Kit Learn
 
 **DeepRock AI**
